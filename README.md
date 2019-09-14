@@ -1,2 +1,2 @@
 # VuePlayGround
-Vue Js Starter &amp; Rsearch
+Vue Js Starter &amp; Research
